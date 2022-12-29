@@ -4,4 +4,4 @@ RUN npm install --global --force yarn
 COPY . .
 RUN yarn install
 RUN yarn build
-CMD ["node", "./build/index.js", "ORIGIN=http://tralist.unsteelix.keenetic.link"]
+CMD ["node", "./build/index.js", "ORIGIN=http://localhost:3000"]
