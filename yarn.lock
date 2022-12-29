@@ -1180,6 +1180,11 @@ prettier@^2.8.0:
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.8.1.tgz#4e1fd11c34e2421bc1da9aea9bd8127cd0a35efc"
   integrity sha512-lqGoSJBQNJidqCHE80vqZJHWHRFoNYsSpP9AjFhlhi9ODCJA541svILes/+/1GM3VaL/abZi7cpFzOpdR9UPKg==
 
+proxyfull@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/proxyfull/-/proxyfull-1.0.0.tgz#0696bb0743fda843b87e2f7add77fc8cdb1a83af"
+  integrity sha512-iRYZBNFPUbJcL8HWyEKY7y8Bh+SkVVjqXXRDJmN6+VKR+NLt6fR32Gcz38CP/0g7uCpqK3XeiNxSrSXngk/NAA==
+
 punycode@^2.1.0:
   version "2.1.1"
   resolved "https://registry.yarnpkg.com/punycode/-/punycode-2.1.1.tgz#b58b010ac40c22c5657616c8d2c2c02c7bf479ec"

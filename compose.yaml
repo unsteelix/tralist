@@ -1,0 +1,13 @@
+services:
+
+  blog:
+    build: 
+      context: .
+    ports:
+      - 7654:4173
+    volumes:
+      - tralist_volume:/app/volume
+    restart: always
+
+volumes:
+  tralist_volume:
