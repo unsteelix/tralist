@@ -1,10 +1,10 @@
 services:
 
-  blog:
+  tralist:
     build: 
       context: .
     ports:
-      - 7654:4173
+      - 7654:3000
     volumes:
       - tralist_volume:/app/volume
     restart: always
